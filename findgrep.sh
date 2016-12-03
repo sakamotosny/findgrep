@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#test
 usage()
 {
     local script_name=$(basename "$0")
